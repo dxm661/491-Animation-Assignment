@@ -6,6 +6,8 @@ ASSET_MANAGER.downloadAll(() => {
 	const canvas = document.getElementById("gameWorld");
 	const ctx = canvas.getContext("2d");
 
+	gameEngine.addEntity(new mileena());
+
 	gameEngine.init(ctx);
 
 	gameEngine.start();
