@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Empty--GameEngine-main\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\assetmanager.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Empty--GameEngine-main\\assetmanager.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\mileena.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Empty--GameEngine-main\\mileena.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\animator.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Empty--GameEngine-main\\animator.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\gameengine.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Empty--GameEngine-main\\gameengine.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Empty--GameEngine-main\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Empty--GameEngine-main\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\assetmanager.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Empty--GameEngine-main\\assetmanager.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Empty--GameEngine-main\\main.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\index.html",
               "RelativeDocumentMoniker": "Empty--GameEngine-main\\index.html",
               "ToolTip": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\index.html",
               "RelativeToolTip": "Empty--GameEngine-main\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2026-01-13T11:10:13.734Z",
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "animator.js",
+              "DocumentMoniker": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\animator.js",
+              "RelativeDocumentMoniker": "Empty--GameEngine-main\\animator.js",
+              "ToolTip": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\animator.js",
+              "RelativeToolTip": "Empty--GameEngine-main\\animator.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-14T03:47:58.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "gameengine.js",
               "DocumentMoniker": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\gameengine.js",
               "RelativeDocumentMoniker": "Empty--GameEngine-main\\gameengine.js",
               "ToolTip": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\gameengine.js",
               "RelativeToolTip": "Empty--GameEngine-main\\gameengine.js",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-13T10:53:14.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T10:53:14.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "main.js",
               "DocumentMoniker": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\main.js",
               "RelativeDocumentMoniker": "Empty--GameEngine-main\\main.js",
               "ToolTip": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\main.js",
               "RelativeToolTip": "Empty--GameEngine-main\\main.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-13T10:46:50.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2026-01-13T10:46:50.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "mileena.js",
+              "DocumentMoniker": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\mileena.js",
+              "RelativeDocumentMoniker": "Empty--GameEngine-main\\mileena.js",
+              "ToolTip": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\mileena.js",
+              "RelativeToolTip": "Empty--GameEngine-main\\mileena.js",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-13T11:39:41.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "assetmanager.js",
               "DocumentMoniker": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\assetmanager.js",
               "RelativeDocumentMoniker": "Empty--GameEngine-main\\assetmanager.js",
               "ToolTip": "C:\\Users\\Nicole\\source\\repos\\491-Animation-Assignment\\Empty--GameEngine-main\\assetmanager.js",
               "RelativeToolTip": "Empty--GameEngine-main\\assetmanager.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-13T10:46:47.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-13T10:46:47.922Z"
             }
           ]
         }

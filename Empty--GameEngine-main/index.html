@@ -4,15 +4,27 @@
 <head>
     <meta charset="utf-8">
     <title>Game Project Title Goes Here</title>
-  
+
     <script type="text/javascript" src="./assetmanager.js"></script>
     <script type="text/javascript" src="./timer.js"></script>
     <script type="text/javascript" src="./gameengine.js"></script>
     <script type="text/javascript" src="./util.js"></script>
+    <script type="text/javascript" src="./animator.js"></script>
+    <script type="text/javascript" src="./animatorBlaze.js"></script>
     <script type="text/javascript" src="./mileena.js"></script>
+    <script type="text/javascript" src="./PitII.js"></script>
+    <script type="text/javascript" src="./Blaze.js"></script>
     <script type="text/javascript" src="./main.js"></script>
+    <script>
+        /*to prevent Firefox FOUC, this must be here*/
+        let FF_FOUC_FIX;
+    </script>
 </head>
 <body>
     <canvas id="gameWorld" width="1024" height="768" style="background: white; border: 1px solid black" tabindex="0" autofocus></canvas>
+    <div id="infoBox">
+    <h2>Use the arrow keys to move and down to crouch!</h2>
+    <h3>Try down + back to do her signature ball roll</h3>
+    </div>
 </body>
 </html>
